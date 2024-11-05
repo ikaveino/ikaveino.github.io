@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikaveino.github.io/BhY/sitemap_index.txt
+Sitemap: https://ikaveino.github.io/Wku/sitemap_index.txt
+Sitemap: https://ikaveino.github.io/fDM/sitemap_index.txt
+Sitemap: https://ikaveino.github.io/mQb/sitemap_index.txt
